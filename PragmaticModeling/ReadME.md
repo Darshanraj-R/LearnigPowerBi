@@ -64,6 +64,6 @@
  * The key used to uniquely identify the row
  * it satrts from 1 and increments by 1
  * Used in dim tables
- * No Primary key or forign key is used.
- 
+ * No Primary key or forign key is to be used in Azure Warehouse.
+
 
