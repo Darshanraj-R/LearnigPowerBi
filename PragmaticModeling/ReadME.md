@@ -57,6 +57,14 @@
 
 ### Fact tables:
     Transactional data/quantitative info 
+* Structure of Fact table:
+$$
+first part [primary table]
+second part[Dimensional SK keys]
+Third part [fact table data]
+$$
+
+
 
 
 ## Surrogative key:
@@ -65,5 +73,7 @@
  * it satrts from 1 and increments by 1
  * Used in dim tables
  * No Primary key or forign key is to be used in Azure Warehouse.
+
+
 
 
